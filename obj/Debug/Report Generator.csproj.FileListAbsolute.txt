@@ -1,0 +1,21 @@
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\Report Generator.exe
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\Report Generator.pdb
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.csprojAssemblyReference.cache
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report_Generator.Form1.resources
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report_Generator.Properties.Resources.resources
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.csproj.GenerateResource.cache
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.csproj.CoreCompileInputs.cache
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.exe
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.pdb
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\Report Generator.exe.config
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\MySql.Data.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\obj\Debug\Report Generator.csproj.CopyComplete
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\PdfSharp.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\AleksandraTos\source\repos\Report Generator\Report Generator\bin\Debug\de\PdfSharp.resources.dll
